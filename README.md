@@ -1,2 +1,7 @@
-# final_task
-Финальное задание Stepik, курс Автоматизация тестирования с помощью Selenium и Python
+# stepic_project
+Final project for [stepic automation course](https://stepik.org/course/575)
+
+Stack:
++ Python3
++ Selenium
++ Pytest
